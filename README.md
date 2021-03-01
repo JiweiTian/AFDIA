@@ -1,9 +1,98 @@
 # AFDIA Joint Adversarial Example and False Data Injection Attacks for State Estimation in Power Systems
 The code and datasets will be provided after the review.
-14-bus	Input	1	2	3	4	5	6	7	8	9
-NAD-1	54	20	20	2						
-NAD-2	54	20	20	20	2					
-NAD-3	54	20	40	40	20	2				
-NAD-4	54	20	40	40	40	20	2			
-NAD-5	54	20	40	40	40	40	20	20	2	
-NAD-6	54	20	40	40	40	40	40	20	20	2
+<table>
+   <tr>
+      <td>14-bus</td>
+      <td>Input</td>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
+      <td>4</td>
+      <td>5</td>
+      <td>6</td>
+      <td>7</td>
+      <td>8</td>
+      <td>9</td>
+   </tr>
+   <tr>
+      <td>NAD-1</td>
+      <td>54</td>
+      <td>20</td>
+      <td>20</td>
+      <td>2</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>NAD-2</td>
+      <td>54</td>
+      <td>20</td>
+      <td>20</td>
+      <td>20</td>
+      <td>2</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>NAD-3</td>
+      <td>54</td>
+      <td>20</td>
+      <td>40</td>
+      <td>40</td>
+      <td>20</td>
+      <td>2</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>NAD-4</td>
+      <td>54</td>
+      <td>20</td>
+      <td>40</td>
+      <td>40</td>
+      <td>40</td>
+      <td>20</td>
+      <td>2</td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>NAD-5</td>
+      <td>54</td>
+      <td>20</td>
+      <td>40</td>
+      <td>40</td>
+      <td>40</td>
+      <td>40</td>
+      <td>20</td>
+      <td>20</td>
+      <td>2</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>NAD-6</td>
+      <td>54</td>
+      <td>20</td>
+      <td>40</td>
+      <td>40</td>
+      <td>40</td>
+      <td>40</td>
+      <td>40</td>
+      <td>20</td>
+      <td>20</td>
+      <td>2</td>
+   </tr>
+   <tr>
+      <td></td>
+   </tr>
+</table>
