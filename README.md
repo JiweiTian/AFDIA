@@ -1,5 +1,6 @@
 # AFDIA Joint Adversarial Example and False Data Injection Attacks for State Estimation in Power Systems
 The code and datasets will be provided after the review.
+Six different NAD models for IEEE 14-bus system:
 <table>
    <tr>
       <td>14-bus</td>
@@ -98,7 +99,7 @@ The code and datasets will be provided after the review.
 </table>
 
 
-
+Six different NAD models for IEEE 30-bus system:
 <table>
    <tr>
       <td>30-bus</td>
@@ -203,7 +204,7 @@ The code and datasets will be provided after the review.
    </tr>
 </table>
 
-
+Six different NAD models for IEEE 118-bus system:
 <table>
    <tr>
       <td>118-bus</td>
